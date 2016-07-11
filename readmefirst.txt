@@ -1,1 +1,3 @@
 Here is a line
+And a second line...
+Et une troisième ligne
