@@ -4,4 +4,3 @@ Et une troisième ligne
 Modif dans la branche
 Après la branche
 Modif avec SourceTree
-Dans la branche avec SourceTree
